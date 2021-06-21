@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1606452960 source:h:\kuliah\semester 1\asistensi itp\tugas\ngetes\tugasakhir\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<mmsystem.h>
+	<string>
+
