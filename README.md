@@ -1,5 +1,5 @@
 # Game-Tap-Monster-Console-C-
-This is a simple project of my 1st semester in the Intro to Programming course
+This is a simple project of my 1st semester in the Intro to Programming course using C++
 
 How to show background music sound in codeblock
 1. Open the Settings menu (top)
